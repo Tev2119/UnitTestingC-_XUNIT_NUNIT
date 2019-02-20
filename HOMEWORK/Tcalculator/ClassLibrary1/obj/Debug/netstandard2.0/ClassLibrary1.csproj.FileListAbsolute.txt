@@ -1,0 +1,9 @@
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week6\Day2\HOMEWORK\Tcalculator\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week6\Day2\HOMEWORK\Tcalculator\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week6\Day2\HOMEWORK\Tcalculator\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week6\Day2\HOMEWORK\Tcalculator\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week6\Day2\HOMEWORK\Tcalculator\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week6\Day2\HOMEWORK\Tcalculator\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week6\Day2\HOMEWORK\Tcalculator\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week6\Day2\HOMEWORK\Tcalculator\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week6\Day2\HOMEWORK\Tcalculator\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
